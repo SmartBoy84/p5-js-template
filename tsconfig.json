@@ -2,7 +2,7 @@
   "compilerOptions": {
     "module": "commonjs",
     "removeComments": true,
-    "target": "es2020",
+    "target": "ESNext",
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
